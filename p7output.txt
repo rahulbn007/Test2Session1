@@ -1,1 +1,7 @@
-
+Enter the coordinates
+8
+4
+The length of the line with coordinates
+(1.000000,2.000000)
+(8.000000,4.000000)
+is 7.280110 
