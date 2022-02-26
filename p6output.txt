@@ -1,1 +1,4 @@
-
+Enter the string and substring:
+helloworld
+low
+The index of low in helloworld is 3
