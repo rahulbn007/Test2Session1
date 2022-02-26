@@ -1,1 +1,25 @@
-
+gcc -g p8original.c -lm
+ ./a.out
+Enter the number of sides:
+4
+Enter the point:
+0
+0
+0
+3
+Enter the point:
+0
+3
+3
+3
+Enter the point:
+3
+3
+3
+0   
+Enter the point:
+3
+0
+0
+0
+The perimeter of the polygon with 4 sides is 12.000000 
