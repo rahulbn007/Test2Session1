@@ -1,1 +1,5 @@
-
+gcc -g p4original.c
+ ./a.out
+Enter the number:
+6
+The 6th number in fibonacci sequence is 8.
